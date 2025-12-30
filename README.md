@@ -60,7 +60,6 @@
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/ujjwalmishra01
-- 🧠 LeetCode: https://leetcode.com/u/ujjwalmshra/
 - 🐦 X (Twitter): https://x.com/UjjwalX404
 
 ---
