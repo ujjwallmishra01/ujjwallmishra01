@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Ujjwal
 
-🚀 Aspiring **Data Scientist** | 🧠 **DSA & Problem Solving** Enthusiast  
+🚀 Aspiring **Data Scientist** | 🧠 **DSA & Problem Solving Enthusiast**  
 📍 India | 💻 Turning confusion into consistency, one commit at a time
 
 ---
@@ -60,7 +60,6 @@
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/ujjwalmishra01
-- 🐦 X (Twitter): https://x.com/UjjwalX404
 
 ---
 
